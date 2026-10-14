@@ -35,11 +35,10 @@ export const FALLBACK_PIECES: Piece[] = [
   {
     id: "hashnode-your-ai-sdr-is-inventing-facts-i-built-the-audit-layer-that-catches-them",
     slug: "your-ai-sdr-is-inventing-facts-i-built-the-audit-layer-that-catches-them",
-    title: "Your AI SDR is inventing facts. I built the audit layer that catches them",
+    title: "Your AI SDR is inventing facts. I built the audit layer that catches them (draft, not yet published)",
     published_at: "2026-10-13T00:00:00.000Z",
     source: "hashnode",
-    url: `${HOST}/your-ai-sdr-is-inventing-facts-i-built-the-audit-layer-that-catches-them`,
-    body_markdown: `The full text of this piece lives on the publication: ${HOST}/your-ai-sdr-is-inventing-facts-i-built-the-audit-layer-that-catches-them`,
+    body_markdown: "Draft, not yet published. This piece has no canonical URL yet; the full text will be linked here once it is live.",
     topics: ["gtm", "ai", "audit"],
     summary: "An audit layer that checks AI SDR output for invented facts.",
     sample: false,
